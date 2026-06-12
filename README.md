@@ -42,6 +42,7 @@
 ### 📜 Certifications
 
 - 🛡️ Fortinet NSE 1 & 2
+- 🛡️ Fortinet NSE 3
 - ☁️ Google Cloud Career Launchpad Scholar
 
 ---
