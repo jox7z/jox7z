@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=ffffff¢er=true&vCenter=true&width=500&lines=Hi%2C+I'm+José+Adrián+👋;Systems+Engineer+%7C+Costa+Rica+🇨🇷;Full+Stack+%7C+Cloud+%7C+Cybersecurity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=ffffff¢er=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jose+Adrián+👋;Systems+Engineer+%7C+Costa+Rica+🇨🇷;Full+Stack+%7C+Cloud+%7C+Cybersecurity)](https://git.io/typing-svg)
 
 
 
